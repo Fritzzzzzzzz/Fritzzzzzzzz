@@ -19,8 +19,8 @@ const rizqi = {
   role     : "Tech Enthusiast & Web Developer",
   education: "Data and Information Security, 2026",
   location : "Indonesia 🇮🇩",
-  interests: ["Web Development", "Cyber Security", "UI/UX Design"],
-  currentlyLearning: ["Next.js", "Cybersecurity", "System Design"],
+  interests: ["Web Development", "Cyber Security", "UI/UX Design", Mobile Dev],
+  currentlyLearning: ["Next.js", "Cybersecurity", "System Design", "Mobile Dev"],
   funFact  : "I think neubrutalism is underrated 🖤🟡",
 };
 ```
